@@ -1,0 +1,66 @@
+body{
+background-image: url(Untitled\ design.png);
+width: 200px;
+height: 400px;
+background-size: cover;
+
+}
+    #background{
+background-color:rgb(74, 53, 1);
+width: 500px;
+height: 710px;
+margin-left: 700px;
+margin-right: -100px;
+border-radius: 40px;
+}
+#input{
+    border-radius: 10px;
+}
+*{
+    color: aliceblue;
+}
+h1{
+
+    text-align: center;
+}
+#places{
+color: aliceblue;
+background-color: black;
+
+
+}
+#date{
+color: white;
+background-color: black;
+border-radius: 10px;
+
+}
+#option{
+    border-radius: 10px;
+}
+button{
+align-items: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+text-shadow: -3px -3px gray;
+cursor: pointer;
+background-color: white;
+color: black;
+width: 200px;
+height: 40px;
+}
+#form{
+    margin-right: 20pxpx;
+    margin-left: 20px;
+}
+input{
+    color: white;
+    background-color: rgba(255, 242, 242, 0);
+}
+#checkbox{
+
+    display: inline;
+}
+#radio{
+    display: inline;
+}
